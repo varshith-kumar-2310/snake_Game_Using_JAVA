@@ -53,7 +53,6 @@ The goal is to:
 - Collision detection algorithms
 
 ---
----
 
 ##  How to Run
 
